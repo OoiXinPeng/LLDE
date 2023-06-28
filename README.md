@@ -51,5 +51,22 @@ Download the [pretrained model](https://drive.google.com/file/d/1LDhgrZuUtB8dm5o
 
 - The output images are saved in `./saved_images` by default
 
-### Reference
-Codes are heavily borrowed from https://github.com/openai/improved-diffusion
+## Citation
+If you find this work useful for your research, please cite
+```
+@article{LLDE,
+  inproceedings={LLDE: Enhancing Low-light Images With Diffusion Model},
+  author={Ooi, Xin Peng and Chan, Chee Seng},
+  booktitle={2023 IEEE international conference on image processing (ICIP)},
+  year={2023}
+}
+```
+
+## Feedback
+Suggestions and opinions on this work (both positive and negative) are greatly welcomed. Please contact the authors by sending an email to
+`0417oxp at gmail.com` or `cs.chan at um.edu.my`.
+
+## License and Copyright
+The project is open source under BSD-3 license (see the ``` LICENSE ``` file).
+
+&#169;2023 Universiti Malaya.
