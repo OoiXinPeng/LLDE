@@ -3,7 +3,7 @@
 ### Official pytorch implementation of the paper: 
 #### - LLDE: Enhancing Low-light Images With Diffusion Model
 
-[ICIP 2023 (PDF)](assets/ICIP2023_LLDE.pdf)
+[ICIP 2023 (PDF)](assets/ICIP2023_LLDE.pdf) | [Bibtex](#citation) | [Poster](assets/ICIP2023_LLDEp.pdf)
 
 (Released on June 28, 2023)
 
