@@ -53,7 +53,7 @@ Download the [pretrained model](https://drive.google.com/file/d/1LDhgrZuUtB8dm5o
 
 ## Citation
 If you find this work useful for your research, please cite
-```
+```bibtex
 @article{LLDE,
   inproceedings={LLDE: Enhancing Low-light Images With Diffusion Model},
   author={Ooi, Xin Peng and Chan, Chee Seng},
