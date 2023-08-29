@@ -3,7 +3,7 @@
 ### Official pytorch implementation of the paper: 
 #### - LLDE: Enhancing Low-light Images With Diffusion Model
 
-[Paper](assets/ICIP2023_LLDE.pdf) | [Bibtex](#citation) | [Poster](assets/ICIP2023_LLDEp.pdf)
+ICIP2023 | [Paper](assets/ICIP2023_LLDE.pdf) | [Bibtex](#citation) | [Poster](assets/ICIP2023_LLDEp.pdf)
 
 (Released on June 28, 2023)
 
@@ -55,10 +55,10 @@ Download the [pretrained model](https://drive.google.com/file/d/1LDhgrZuUtB8dm5o
 If you find this work useful for your research, please cite
 ```bibtex
 @article{LLDE,
-  inproceedings={LLDE: Enhancing Low-light Images With Diffusion Model},
-  author={Ooi, Xin Peng and Chan, Chee Seng},
-  booktitle={2023 IEEE international conference on image processing (ICIP)},
-  year={2023}
+  inproceedings = {LLDE: Enhancing Low-light Images With Diffusion Model},
+  author = {Ooi, Xin Peng and Chan, Chee Seng},
+  booktitle = {2023 IEEE international conference on image processing (ICIP)},
+  year = {2023}
 }
 ```
 
